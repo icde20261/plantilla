@@ -1,8 +1,8 @@
 rm(list = ls())
 #setwd("")
 
-gpklink=
-jsonlink=
+gpklink="https://github.com/icde20261/plantilla/raw/main/MapFromPython1.gpkg"
+jsonlink="https://github.com/icde20261/plantilla/raw/main/MapFromPython2.geojson"
 
 library(sf)
 
